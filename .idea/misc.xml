@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cubezytech/.gradle/caches/transforms-3/b6d82930eefa56081fb74384a47d8f3b/transformed/jetified-exoplayer-ui-2.14.1/res/layout/exo_player_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/background_splash.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/bottom_sheet.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/bottomsheet_color.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/close_btn.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/dialog_color.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/equalizer.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/gradient_background.xml" value="0.33" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/ic_back.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/ic_baseline_left.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/ic_baseline_playlist_play_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/ic_brightness.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/ic_explore_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/ic_library_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/ic_playlist.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/ic_rename.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/progress_drawle.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/drawable/search_view.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/a_filesview.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/activity_favourite.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/activity_player.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/activity_video_folder.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/activity_video_player.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/add_toplaylist.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/bottom_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/bottomsheet_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/brightness_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/create_playlist.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/delete_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/equalizer_lay.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/fav_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/favourite_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/fragment_artist.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/fragment_blank.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/fragment_explore_fragemet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/fragment_home_fragement.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/fragment_library_fragement.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/fragment_libray.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/fragment_playlist_fragements.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/fragment_select_fregment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/fragment_selected_fragement.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/fragment_video_frg.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/history_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/history_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/library_fragement.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/menu_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/model.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/platlist_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/playlist.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/playlist_delete.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/playlist_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/playlistfolder.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/playpause_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/properties.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/recent_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/rename_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/select_video.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/song_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/video_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/video_fragments.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/video_prop_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/layout/video_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Tabslayout/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3828125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

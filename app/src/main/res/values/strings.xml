@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tabs layout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start_position">a</string>
+
+    <string name="size_in_b">%1$.2f B</string>
+    <string name="size_in_kb">%1$.2f KB</string>
+    <string name="size_in_mb">%1$.2f MB</string>
+    <string name="size_in_gb">%1$.2f GB</string>
+    <string name="the_video_delete_permanently_from_device">The Video delete Permanently from Device.</string>
+    <string name="folk">Folk</string>
+    <string name="virtual">VIRTUALIZER</string>
+    <string name="all_videos">All Videos</string>
+    <string name="fav">Favourite</string>
+</resources>
